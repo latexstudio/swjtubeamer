@@ -1,7 +1,7 @@
 # SWJTU Beamer 模板
 
 [![Travis build](https://travis-ci.org/swjtutug/swjtubeamer.svg?branch=master)](https://travis-ci.org/swjtutug/swjtubeamer)
-[![GitHub release](https://img.shields.io/github/release/swjtutug/swjtubearmer/all.svg)](https://github.com/swjtutug/swjtubearmer/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/swjtutug/swjtubearmer/all.svg)](https://github.com/swjtutug/swjtubearmer/releases/)
 [![Github downloads](https://img.shields.io/github/downloads/swjtutug/swjtubeamer/total.svg)](https://github.com/swjtutug/swjtubeamer/releases)
 [![GitHub commits](https://img.shields.io/github/commits-since/swjtutug/swjtubeamer/v1.0.svg)](https://github.com/swjtutug/swjtubeamer/commits/master)
 
